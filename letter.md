@@ -1,13 +1,11 @@
 ---
-# subject: My life as a soldier
-author: F. Nietzsche
-city: Naumburg
+subject: My life as a soldier
+author: Tobias Frischholz
+city: Markt Indersdorf
 from:
-- Artillerieregiment, 8. Batt.
-- Nordstraße 15, Naumburg
+- Westenstraße 31, 85229 Markt Indersdorf
 to:
 - Carl Freiherr von Gersdorff
-- Stresow-Kaserne I
 - Grenadierstraße 13–16
 - 13597 Spandau
 
@@ -15,7 +13,7 @@ to:
 mainfont: Hoefler Text
 altfont: Helvetica Neue
 monofont: Courier
-lang: english
+lang: german
 fontsize: 10pt
 geometry: a4paper, left=35mm, right=35mm, top=50mm, bottom=25mm
 # letterhead: true
