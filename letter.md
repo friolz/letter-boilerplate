@@ -3,7 +3,8 @@ subject: My life as a soldier
 author: Tobias Frischholz
 city: Markt Indersdorf
 from:
-- Westenstraße 31, 85229 Markt Indersdorf
+- Westenstraße 31
+- 85229 Markt Indersdorf
 to:
 - Carl Freiherr von Gersdorff
 - Grenadierstraße 13–16
